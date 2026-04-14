@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "b05080f0419e92f4ad8b3d365caf2f219dcf32d1",
+  "prompts": {
+    "2af5e4a56e28050b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a7f42aa2-c838-4b7a-8174-15e64b5e2d79",
+        "model": "composer-2"
+      },
+      "human_author": "pbathuri",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
