@@ -1,0 +1,16 @@
+{
+  "name": "entrepreneur-persona",
+  "owner": {
+    "name": "pbathuri"
+  },
+  "metadata": {
+    "description": "Pitch competition and early-stage venture mentor skill: validation, Clapp-style proposals, 5-minute decks, scripts, 60+ judge questions, optional proposal validator."
+  },
+  "plugins": [
+    {
+      "name": "entrepreneur-persona",
+      "source": "./",
+      "description": "Entrepreneur persona — mentor for pitch competitions, business plans, and investor-style Q&A."
+    }
+  ]
+}

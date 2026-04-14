@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+__pycache__/
+.venv/
+venv/
+.env
+.env.*
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Local reference PDFs (not redistributed — add your own copies privately)
+*.pdf

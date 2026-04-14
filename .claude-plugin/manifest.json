@@ -1,0 +1,20 @@
+{
+  "name": "entrepreneur-persona",
+  "version": "1.0.0",
+  "description": "Competition-ready entrepreneurship mentor for Claude Code — proposals, pitch decks, validation, judge Q&A",
+  "author": "pbathuri",
+  "license": "MIT",
+  "homepage": "https://github.com/pbathuri/entrepreneur-persona-skill",
+  "categories": [
+    "pitch-competition"
+  ],
+  "skills": [
+    {
+      "name": "entrepreneur-persona",
+      "path": "skills/entrepreneur-persona/SKILL.md",
+      "category": "pitch-competition",
+      "version": "1.0.0",
+      "status": "production"
+    }
+  ]
+}

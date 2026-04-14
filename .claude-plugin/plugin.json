@@ -1,0 +1,10 @@
+{
+  "name": "entrepreneur-persona",
+  "description": "Claude Code skill: competition-grade entrepreneurship mentor — idea validation, business proposals, pitch decks and scripts, judge-style Q&A, and proposal linting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pbathuri"
+  },
+  "repository": "https://github.com/pbathuri/entrepreneur-persona-skill",
+  "license": "MIT"
+}
