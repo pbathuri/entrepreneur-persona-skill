@@ -18,7 +18,8 @@ Use this to **predict judge scoring** and to **prioritize** what to fix before s
 | **Competitive awareness** | Honest landscape; differentiation beyond price | “We have no competitors” |
 | **Customer validation evidence** | Method + numbers + next test | Opinions or anecdotes only |
 | **Business model & unit economics** | How you make money; gross margin story; assumptions stated | Buzzwords; no math; no CAC/LTV awareness when relevant |
-| **Team & founder–problem fit** | Relevant skills; lived insight; advisors/partners named | Generic “passion” without capability map |
+| **Team & founder–problem fit** | Relevant skills; lived insight; advisors/partners named; accomplishments over titles | Generic “passion” without capability map |
+| **Timing thesis (“Why Now?”)** | Compelling convergence of tech/regulatory/behavioral shifts with evidence | No timing argument; “it's always been a problem” without explaining what changed |
 | **Presentation & time** | Story arc; respects limits; crisp visuals | Dense text; overtime; reading slides |
 | **Q&A** | Direct answers; admits unknowns; depth on validation | Deflection; contradictions; hostility |
 | **Investability / fundability** | Clear milestones; capital efficiency; sensible ask | Uncapped ambition; no use of funds logic |

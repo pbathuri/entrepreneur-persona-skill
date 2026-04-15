@@ -1,6 +1,6 @@
 {
   "name": "entrepreneur-persona",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Competition-ready entrepreneurship mentor for Claude Code — proposals, pitch decks, validation, judge Q&A",
   "author": "pbathuri",
   "license": "MIT",
@@ -13,7 +13,7 @@
       "name": "entrepreneur-persona",
       "path": "skills/entrepreneur-persona/SKILL.md",
       "category": "pitch-competition",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "status": "production"
     }
   ]

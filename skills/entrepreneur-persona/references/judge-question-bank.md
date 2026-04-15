@@ -1,4 +1,4 @@
-# Judge & investor question bank (60+)
+# Judge & investor question bank (75+)
 
 Use for Q&A prep, “Judge Gauntlet” drills, and stress tests. Draw **10 toughest** for a given venture context.
 
@@ -82,3 +82,22 @@ Use for Q&A prep, “Judge Gauntlet” drills, and stress tests. Draw **10 tough
 8. What’s the specific use of funds, and what milestones does each tranche unlock?  
 9. What will you accomplish with the next $X that you cannot do without it?  
 10. How do you think about ethics or societal impact if this scales?
+
+## AI, technology & defensibility (2025+)
+
+1. If you're using a foundation model API (OpenAI, Anthropic, etc.), what happens when they ship this feature natively?  
+2. What proprietary data or feedback loop gives you a moat that a competitor with the same API cannot replicate?  
+3. How do you handle AI errors or hallucinations in a domain where mistakes have real consequences?  
+4. Have you assessed your product's classification under the EU AI Act? What tier are you?  
+5. If your product is software that makes medical or clinical decisions, have you evaluated FDA SaMD requirements?  
+6. What is your data strategy — how does your product get better with more users in a way competitors can't easily copy?  
+7. How dependent are you on a single model provider, and what is your contingency if their pricing doubles or API changes?  
+8. What ethical concerns arise if your product scales to 1M users — bias, misuse, privacy, job displacement?
+
+## Macro environment & timing
+
+1. Why is NOW the right time for this — what changed in the last 2–3 years that creates the opening?  
+2. What happens to your business if interest rates stay high and consumer/business spending tightens?  
+3. What regulatory changes (existing or proposed) could help or hurt your venture in the next 18 months?  
+4. How do you navigate the shift from "growth at all costs" to "capital efficiency" in the current funding environment?  
+5. What macro trend are you riding, and what happens if that trend reverses or stalls?

@@ -38,7 +38,16 @@ TAM → SAM → SOM; **beachhead** in plain English:
 
 ---
 
-## 5. Competition (~30 sec)
+## 5. Why Now? (~20 sec)
+
+What changed — in technology, regulation, behavior, or markets — that makes this the right moment:  
+[ ]
+
+**Transition:** "We're not the only ones who see this opportunity — here's why we still win."
+
+---
+
+## 6. Competition (~30 sec)
 
 Landscape + wedge **beyond price** (insight, workflow, trust, speed):  
 [ ]
@@ -47,7 +56,7 @@ Landscape + wedge **beyond price** (insight, workflow, trust, speed):
 
 ---
 
-## 6. Traction / Validation (~30 sec)
+## 7. Traction / Validation (~30 sec)
 
 Evidence stack (method + numbers):  
 [ ]
@@ -56,7 +65,7 @@ Evidence stack (method + numbers):
 
 ---
 
-## 7. Business Model (~30 sec)
+## 8. Business Model (~30 sec)
 
 Pricing, gross margin story, unit economics hint:  
 [ ]
@@ -65,7 +74,7 @@ Pricing, gross margin story, unit economics hint:
 
 ---
 
-## 8. Go-to-Market (~20 sec)
+## 9. Go-to-Market (~15 sec)
 
 Phase 1 → 2 → 3 (beachhead → expand → scale):  
 [ ]
@@ -74,25 +83,27 @@ Phase 1 → 2 → 3 (beachhead → expand → scale):
 
 ---
 
-## 9. Use of Funds (~20 sec)
+## 10. Use of Funds (~15 sec)
 
 Categories with **$ and %**, tied to milestones:  
 [ ]
 
-**Transition:** “Why us — briefly.”
+**Transition:** “Why us.”
 
 ---
 
-## 10. Team (~15 sec)
+## 11. Team (~20 sec)
 
-Founder–problem fit + missing skill + how you fill it:  
+What you’ve shipped, built, or solved that proves you can execute *this* — accomplishments, not titles:  
+[ ]  
+Skill gaps and how you fill them:  
 [ ]
 
 **Transition:** “Close.”
 
 ---
 
-## 11. Ask + Close (~10 sec)
+## 12. Ask + Close (~10 sec)
 
 **The ask:** [funding amount / intros / pilot partners — be specific]  
 **One-liner they’ll remember:**  

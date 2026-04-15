@@ -37,6 +37,9 @@ Direct: [ ] | Indirect: [ ] | Substitutes / DIY: [ ]
 **I4 — Industry challenges + mitigation:**  
 [Regulation, supply chain, trust, seasonality, etc.]
 
+**I5 — "Why Now?" (timing thesis):**  
+[What changed in technology, regulation, behavior, market structure, or funding that makes this the right moment? Cite at least 2 of the 5 timing dimensions.]
+
 ---
 
 ## Section 3: Marketing (1 page max)
@@ -115,14 +118,28 @@ Units × (Price − COGS) = Gross Profit
 
 ## Section 7: People (1 page max)
 
-**P1 — Team (roles, skills, ownership):**  
+**P1 — Team (accomplishments over titles):**
 
-| Person | Role | Relevant proof |
-|--------|------|----------------|
+| Person | Role | What they've shipped/built/sold relevant to this venture |
+|--------|------|----------------------------------------------------------|
 | | | |
 
-**P2 — Key partnerships:**  
-[ ]
+**P2 — Founder-problem fit:**  
+[Why this team has unfair access, insight, or capability for this specific problem]
 
-**P3 — Team challenges + mitigation:**  
-[ ]
+**P3 — Key partnerships (status):**
+
+| Partner | Value they provide | Status (signed / in progress / target) |
+|---------|--------------------|----------------------------------------|
+| | | |
+
+**P4 — Skill gaps + fill plan:**
+
+| Gap | Fill method (hire, advisor, partner) | Timeline |
+|-----|--------------------------------------|----------|
+| | | |
+
+**P5 — Team risks + mitigation:**  
+[Key-person dependency, graduation, full-time transition plan, equity/IP assignment]
+
+For co-founder teams (2+), see `assets/team-alignment-canvas.md` for role clarity and equity alignment.
