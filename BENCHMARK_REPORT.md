@@ -1,4 +1,4 @@
-# Entrepreneur-Persona Skill — Full Benchmark Report
+# Entrepreneur-Persona Skill - Full Benchmark Report
 
 **Date:** 2026-04-14  
 **Auditor:** Claude Opus 4.6 (automated end-to-end benchmark)  
@@ -17,7 +17,7 @@
 | **Winning-Pattern Coverage** | 56 / 75 (74.7%) across 15 elements |
 | **Quality Bar Effectiveness** | 26/30 classic red flags · 22/30 including 2025-specific |
 | **Judge Rubric Match** | 70% MIT $100K · 72% Harvard NVC · 65% General VC |
-| **Validator Script** | PASS — 7/7 sections, financial keywords OK, gross-profit pattern OK |
+| **Validator Script** | PASS - 7/7 sections, financial keywords OK, gross-profit pattern OK |
 
 **Verdict:** A strong B+ skill for student pitch competitions. Excellent problem-first discipline, validation rigor, and financial realism. Falls short of industry-scale use due to missing "Why Now?" framing, thin visual design guidance, siloed workflows, no cross-industry adaptation layer, and absent 2025-era red flags (AI wrappers, regulatory shifts). With targeted fixes, this could become the definitive entrepreneurship skill for Claude Code.
 
@@ -49,15 +49,15 @@
 
 ### Per-Scenario Key Findings
 
-**Scenario 1 (SaaS Ideation):** Workflow 1's problem gate is the skill's crown jewel — it blocks solution discussion until the user articulates who hurts, how badly, how often. Mom Test rules enforced. Enrichment step references Thiel, Graham, Lean Canvas. Minor gap: enrichment step lacks completion criteria; an agent could name-drop frameworks without applying them.
+**Scenario 1 (SaaS Ideation):** Workflow 1's problem gate is the skill's crown jewel - it blocks solution discussion until the user articulates who hurts, how badly, how often. Mom Test rules enforced. Enrichment step references Thiel, Graham, Lean Canvas. Minor gap: enrichment step lacks completion criteria; an agent could name-drop frameworks without applying them.
 
 **Scenario 2 (Physical Product Proposal):** Template forces real numbers (COGS, units, assumptions). Challenger prompts caught missing shipping costs and volume-dependent COGS. Gap: hardware-specific concerns (tooling, MOQ, certification) get only one line under Operations. Supply chain depth is thin for physical products.
 
 **Scenario 3 (Marketplace Deck):** 11-slide structure maps cleanly to Sequoia + YC. Caught unrealistic 18x LTV/CAC ratio immediately. Gap: no marketplace-specific guidance on chicken-and-egg bootstrapping, supply liquidity, or network effects. No "Why Now?" slide.
 
-**Scenario 4 (Subscription Script):** Script template is the most actionable artifact — word-for-word with timing marks, pause cues, emphasis notation. Timing hits 4:35-4:50 target. Gap: no mechanism to verify factual accuracy of traction claims within the script workflow.
+**Scenario 4 (Subscription Script):** Script template is the most actionable artifact - word-for-word with timing marks, pause cues, emphasis notation. Timing hits 4:35-4:50 target. Gap: no mechanism to verify factual accuracy of traction claims within the script workflow.
 
-**Scenario 5 (Judge Gauntlet):** Perfect 5.0 score. The 10-question gauntlet with category distribution exposed that the restaurant AI idea scored 1.9/5 average — correctly identifying distribution, competition (Toast threat), and validation as critical gaps. Prescribed 5 concrete actions with venues, people counts, and time boxes.
+**Scenario 5 (Judge Gauntlet):** Perfect 5.0 score. The 10-question gauntlet with category distribution exposed that the restaurant AI idea scored 1.9/5 average - correctly identifying distribution, competition (Toast threat), and validation as critical gaps. Prescribed 5 concrete actions with venues, people counts, and time boxes.
 
 ---
 
@@ -67,23 +67,23 @@
 
 | # | Winning Element | Skill Depth (1–5) | Status |
 |---|----------------|-------------------|--------|
-| 1 | Radical clarity opening (one-liner) | 4 | Good — one-sentence frame in Step 2 + Hook |
-| 2 | Problem-first narrative | 5 | **Excellent** — hard gate, core principle |
-| 3 | "Why Now?" timing argument | 2 | **Weak** — buried in Q&A bank, not in slide structure |
-| 4 | Traction as proof (real metrics) | 5 | **Excellent** — 6-level validation hierarchy |
-| 5 | Product demonstration emphasis | 4 | Good — demo-heavy variant exists |
-| 6 | Team credibility (accomplishments ≠ titles) | 3 | Moderate — "founder-problem fit" but no "show what you shipped" instruction |
-| 7 | Non-obvious insights ("what you know") | 4 | Good — Thiel "secrets" lens in enrichment |
-| 8 | Bottom-up market sizing | 5 | **Excellent** — both methods + "1% of TAM" flagged as loser pattern |
-| 9 | Storytelling / emotional connection | 4 | Good — opening hook; no guidance on threading story throughout |
-| 10 | Conversational pitch style | 3 | Moderate — "spoken English not essay" but no delivery technique guidance |
-| 11 | Clear ask with milestones | 5 | **Excellent** — $ + % + milestones enforced |
-| 12 | Visual simplicity (billboard test) | 2 | **Weak** — only "6 lines per slide," no font/color/layout rules |
-| 13 | Honest competitive awareness | 5 | **Excellent** — "no competitors" = loser pattern, score 1/5 |
-| 14 | Unit economics / profitability path | 5 | **Excellent** — formula enforced across 4+ files |
-| 15 | Front-load strongest content | 2 | **Weak** — traditional slide order; no reorder instruction |
+| 1 | Radical clarity opening (one-liner) | 4 | Good - one-sentence frame in Step 2 + Hook |
+| 2 | Problem-first narrative | 5 | **Excellent** - hard gate, core principle |
+| 3 | "Why Now?" timing argument | 2 | **Weak** - buried in Q&A bank, not in slide structure |
+| 4 | Traction as proof (real metrics) | 5 | **Excellent** - 6-level validation hierarchy |
+| 5 | Product demonstration emphasis | 4 | Good - demo-heavy variant exists |
+| 6 | Team credibility (accomplishments ≠ titles) | 3 | Moderate - "founder-problem fit" but no "show what you shipped" instruction |
+| 7 | Non-obvious insights ("what you know") | 4 | Good - Thiel "secrets" lens in enrichment |
+| 8 | Bottom-up market sizing | 5 | **Excellent** - both methods + "1% of TAM" flagged as loser pattern |
+| 9 | Storytelling / emotional connection | 4 | Good - opening hook; no guidance on threading story throughout |
+| 10 | Conversational pitch style | 3 | Moderate - "spoken English not essay" but no delivery technique guidance |
+| 11 | Clear ask with milestones | 5 | **Excellent** - $ + % + milestones enforced |
+| 12 | Visual simplicity (billboard test) | 2 | **Weak** - only "6 lines per slide," no font/color/layout rules |
+| 13 | Honest competitive awareness | 5 | **Excellent** - "no competitors" = loser pattern, score 1/5 |
+| 14 | Unit economics / profitability path | 5 | **Excellent** - formula enforced across 4+ files |
+| 15 | Front-load strongest content | 2 | **Weak** - traditional slide order; no reorder instruction |
 
-**Score: 56/75 (74.7%)** — Six elements at 5/5 (best-in-class); three elements at 2/5 (significant gaps).
+**Score: 56/75 (74.7%)** - Six elements at 5/5 (best-in-class); three elements at 2/5 (significant gaps).
 
 ---
 
@@ -94,8 +94,8 @@
 | **Sequoia Capital (12 slides)** | 83% | "Why Now?" as standalone section |
 | **Guy Kawasaki (10/20/30)** | 80% | "Underlying magic" concept; 30pt font rule |
 | **YC / Seibel Seed Pitch (6)** | 95% | Minor: 2:30 brevity vs skill's 5:00 |
-| **PSMTA (universal)** | 100% | None — perfect subset match |
-| **AARRR Pirate Metrics** | 40% | Activation, Retention, Referral (by design — pitch-focused, not growth-focused) |
+| **PSMTA (universal)** | 100% | None - perfect subset match |
+| **AARRR Pirate Metrics** | 40% | Activation, Retention, Referral (by design - pitch-focused, not growth-focused) |
 
 ---
 
@@ -113,20 +113,20 @@
 
 | Red Flag | Skill Catches It? | Score |
 |----------|-------------------|-------|
-| Unvalidated metrics | YES — hypothesis relabeling + challenger prompts | 5/5 |
-| Hockey-stick projections | YES — floor assumptions + anti-pattern flagged | 5/5 |
-| "No competition" claims | YES — scored 1/5 in rubric, loser pattern | 5/5 |
-| Missing unit economics | YES — formula enforced everywhere | 5/5 |
-| Vague go-to-market | PARTIAL — phases exist but no quantification | 4/5 |
+| Unvalidated metrics | YES - hypothesis relabeling + challenger prompts | 5/5 |
+| Hockey-stick projections | YES - floor assumptions + anti-pattern flagged | 5/5 |
+| "No competition" claims | YES - scored 1/5 in rubric, loser pattern | 5/5 |
+| Missing unit economics | YES - formula enforced everywhere | 5/5 |
+| Vague go-to-market | PARTIAL - phases exist but no quantification | 4/5 |
 | AI wrapper with no moat (2025) | NO | 1/5 |
 | Inflated AI TAM (2025) | NO | 1/5 |
-| Regulatory risk (AI Act, FDA SaMD) | PARTIAL — mentioned as pivot trigger | 2/5 |
+| Regulatory risk (AI Act, FDA SaMD) | PARTIAL - mentioned as pivot trigger | 2/5 |
 
 **Classic red flags: 24/25 (96%). Including 2025-specific: 28/40 (70%).**
 
 ---
 
-## Part 6: Usability Rating — 7.5 / 10
+## Part 6: Usability Rating - 7.5 / 10
 
 ### Scoring Breakdown
 
@@ -148,24 +148,24 @@ Rounded to **7.5 / 10** accounting for the exceptional strength of the judge gau
 
 ## Part 7: Bottlenecks for Industry-Scale Use
 
-### P0 — Blockers (Must fix before scaling)
+### P0 - Blockers (Must fix before scaling)
 
-**1. Siloed Workflows — No Validation Gate Between Stages**
+**1. Siloed Workflows - No Validation Gate Between Stages**
 - **Problem:** A user can jump directly to Workflow 3 (pitch deck) without completing Workflow 1 (problem discovery) or Workflow 5 (pressure testing). The skill will help them build a polished deck for a completely unvalidated idea.
-- **Impact:** At scale, this produces confident-looking outputs that mask fatal flaws. Judges and VCs will see through it — the user won't.
+- **Impact:** At scale, this produces confident-looking outputs that mask fatal flaws. Judges and VCs will see through it - the user won't.
 - **Fix:** Add a pre-check at the start of Workflows 2–4: "Have you validated this idea through problem discovery? If not, let's start there." Add a gauntlet score threshold (e.g., avg ≥ 3.0/5.0) before producing final deliverables.
 
 **2. Missing "Why Now?" as a First-Class Element**
 - **Problem:** Sequoia, MIT $100K, and most VCs treat "Why Now?" as a standalone critical section. The skill buries it as one of 60+ questions in the judge bank.
-- **Impact:** Users produce pitches that fail to answer the #1 investor question after "What do you do?" — which is "Why does this need to exist NOW?"
-- **Fix:** Add "Why Now?" as Slide 4.5 (between Market and Competition) or as a mandatory subsection in Problem. Add to the 7 principles: "Timing is not optional — every idea needs a forcing function."
+- **Impact:** Users produce pitches that fail to answer the #1 investor question after "What do you do?" - which is "Why does this need to exist NOW?"
+- **Fix:** Add "Why Now?" as Slide 4.5 (between Market and Competition) or as a mandatory subsection in Problem. Add to the 7 principles: "Timing is not optional - every idea needs a forcing function."
 
 **3. No Industry Adaptation Layer**
 - **Problem:** The skill treats all startups the same. A biotech pitch, a marketplace, a hardware product, and a SaaS tool all go through identical workflows. But marketplace pitches need chicken-and-egg strategy. Hardware pitches need supply chain depth. Biotech pitches need regulatory pathway. SaaS pitches need churn/expansion metrics.
 - **Impact:** At scale with diverse users, the skill produces generic advice where industry-specific guidance is critical.
 - **Fix:** Add an industry-detection step at the start (SaaS / Marketplace / Hardware / Biotech / CPG / Services) that loads supplementary prompts or reference files per vertical.
 
-### P1 — High Priority (Required for broad adoption)
+### P1 - High Priority (Required for broad adoption)
 
 **4. Team Narrative Under-Weighted**
 - **Problem:** VCs report team is 50%+ of their early-stage decision. MIT $100K weights it at ~25%. The skill treats it as 1 of 10 equal rubric categories and gives it 15 seconds in the script.
@@ -183,14 +183,14 @@ Rounded to **7.5 / 10** accounting for the exceptional strength of the judge gau
 - **Problem:** New users must know to say "pitch my idea" or "help me with my business plan." There's no discovery mechanism.
 - **Fix:** Add trigger-prompt examples as the first thing the skill surfaces when loaded. "Try: 'I have a startup idea about ___' or 'Help me prepare for a pitch competition.'"
 
-### P2 — Medium Priority (For popularity and differentiation)
+### P2 - Medium Priority (For popularity and differentiation)
 
 **8. No Multi-Format Export**
 - **Problem:** The skill produces markdown text. Users at scale need pitch decks (slides), PDFs, one-pagers, and executive summaries. No integration with Gamma, Google Slides, or Canva.
 - **Fix:** Add export workflows that convert proposal markdown to slide-ready format. Leverage Gamma MCP or similar for deck generation.
 
 **9. No Feedback Loop / Iteration Tracking**
-- **Problem:** When a user iterates (runs gauntlet → fixes → re-runs), there's no mechanism to track improvement over time. No "your score improved from 1.9 to 3.4 — here's what's still weak."
+- **Problem:** When a user iterates (runs gauntlet → fixes → re-runs), there's no mechanism to track improvement over time. No "your score improved from 1.9 to 3.4 - here's what's still weak."
 - **Fix:** Add a simple scoring history that the skill can reference across sessions.
 
 **10. No Collaborative / Multi-Founder Support**
@@ -205,7 +205,7 @@ Rounded to **7.5 / 10** accounting for the exceptional strength of the judge gau
 - **Problem:** "Spoken English not essay" is correct but insufficient. No guidance on eye contact, handling nerves, audience reading, or the "earn every 2 minutes" pacing principle.
 - **Fix:** Add 5 delivery bullets: plant feet, eye contact per section, pause after key numbers, answer judges directly (not the audience), smile before starting.
 
-### P3 — Nice to Have (For becoming the #1 skill)
+### P3 - Nice to Have (For becoming the #1 skill)
 
 **13. Benchmark Vignettes Need User-Facing Interaction**
 - The benchmark-vignettes.md is structural analysis for the skill, not interactive for the user. Users should be able to say "show me how Airbnb structured their pitch" and get an annotated walkthrough.
@@ -234,7 +234,7 @@ Rounded to **7.5 / 10** accounting for the exceptional strength of the judge gau
 | Workflow sequencing | Siloed | N/A | N/A | N/A |
 | 2025 relevance | Partial | Varies | No | No |
 
-**Position:** Best-in-class for student pitch competitions among publicly available skills. The gap to "industry standard" is primarily in cross-industry adaptation, workflow integration, and 2025-era updates — all fixable.
+**Position:** Best-in-class for student pitch competitions among publicly available skills. The gap to "industry standard" is primarily in cross-industry adaptation, workflow integration, and 2025-era updates - all fixable.
 
 ---
 

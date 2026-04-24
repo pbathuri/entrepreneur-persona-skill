@@ -2,7 +2,7 @@
 
 # entrepreneur-persona-skill
 
-**A Claude Code skill that turns your editor into a competition-seasoned startup mentor — one that won't let you skip validation.**
+**A Claude Code skill that turns your editor into a competition-seasoned startup mentor - one that won't let you skip validation.**
 
 <br/>
 
@@ -18,9 +18,9 @@
 
 ## TL;DR
 
-Whether you're prepping for **Kelley IdeaFestival**, **MIT $100K**, **Harvard NVC**, **Rice BPC**, **Booth NVC**, or your New Venture Creation final — this skill turns Claude into a **competition-grade mentor** that challenges your assumptions, scores answers like a real judge, and produces **submission-ready deliverables**.
+Whether you're prepping for **Kelley IdeaFestival**, **MIT $100K**, **Harvard NVC**, **Rice BPC**, **Booth NVC**, or your New Venture Creation final - this skill turns Claude into a **competition-grade mentor** that challenges your assumptions, scores answers like a real judge, and produces **submission-ready deliverables**.
 
-Paired with [entrepreneur-persona-llm](https://github.com/pbathuri/entrepreneur-persona-llm) — the model-agnostic twin for ChatGPT / Gemini / Cursor / Copilot.
+Paired with [entrepreneur-persona-llm](https://github.com/pbathuri/entrepreneur-persona-llm) - the model-agnostic twin for ChatGPT / Gemini / Cursor / Copilot.
 
 ---
 
@@ -29,11 +29,11 @@ Paired with [entrepreneur-persona-llm](https://github.com/pbathuri/entrepreneur-
 | Most AI tools do this | This skill does this instead |
 |---|---|
 | *"Great idea! Here's a business plan."* | *"Who hurts, how badly, how often? You haven't validated yet."* |
-| Generic 10-slide template | **12-slide deck** aligned to Sequoia / YC / Kawasaki — with timing cues |
-| *"Your market is huge!"* | *"Your SOM math assumes 5% adoption — show me the channel."* |
-| No financial rigour | **Units × (Price – COGS) = Gross Profit** — every number shows its assumption |
-| Same advice for every idea | **Industry-specific** — SaaS, marketplace, hardware, biotech, CPG, fintech, edtech, climate |
-| Ignores timing | **"Why Now?"** — the question that separates funded startups from class projects |
+| Generic 10-slide template | **12-slide deck** aligned to Sequoia / YC / Kawasaki - with timing cues |
+| *"Your market is huge!"* | *"Your SOM math assumes 5% adoption - show me the channel."* |
+| No financial rigour | **Units × (Price – COGS) = Gross Profit** - every number shows its assumption |
+| Same advice for every idea | **Industry-specific** - SaaS, marketplace, hardware, biotech, CPG, fintech, edtech, climate |
+| Ignores timing | **"Why Now?"** - the question that separates funded startups from class projects |
 
 ---
 
@@ -92,28 +92,28 @@ Full setup (Cursor, VS Code, troubleshooting): **[docs/INSTALLATION.md](docs/INS
 | **8 Mentor Principles** | Problem-first thinking, validation hierarchy, conservative financials, "Why Now?", team-as-top-tier, judge empathy | Mindset |
 | **75+ Judge Questions** | 9 categories: validation, finance, competition, distribution, operations, team, travel/events, AI/tech, macro timing | Q&A prep |
 | **12-Slide Deck Structure** | Hook → Problem → Solution → Market → Why Now? → Competition → Traction → Model → GTM → Funds → Team → Ask | Pitch deck |
-| **7-Section Proposal Template** | Clapp-style — Summary · Industry · Marketing · Operations · Financial · Timeline · People (P1-P5 expanded) | Written plan |
-| **5-Minute Script Template** | Timing-marked with pauses, emphasis, transitions — aim for 4:30 with buffer | Spoken pitch |
-| **Industry Verticals Guide** | SaaS, marketplace, hardware, biotech, CPG, fintech, edtech, climate — each with key metrics + validation Qs | Tailored advice |
+| **7-Section Proposal Template** | Clapp-style - Summary · Industry · Marketing · Operations · Financial · Timeline · People (P1-P5 expanded) | Written plan |
+| **5-Minute Script Template** | Timing-marked with pauses, emphasis, transitions - aim for 4:30 with buffer | Spoken pitch |
+| **Industry Verticals Guide** | SaaS, marketplace, hardware, biotech, CPG, fintech, edtech, climate - each with key metrics + validation Qs | Tailored advice |
 | **Market Landscape 2025** | VC red flags, AI moat analysis, regulatory checkpoints (EU AI Act, FDA SaMD), macro-to-micro economics | Current context |
-| **Deck Slide Checklist** | Visual rules — 30pt+ font, billboard test, one message/slide, images > bullets | Slide design |
+| **Deck Slide Checklist** | Visual rules - 30pt+ font, billboard test, one message/slide, images > bullets | Slide design |
 | **Team Alignment Canvas** | RACI matrix, equity/vesting, vision alignment, conflict protocol | Co-founder clarity |
 | **Idea Refinement Canvas** | 6-block single-page: problem, customer, alternatives, UVP, metrics, next actions | Quick validation |
-| **Proposal Validator** | Python stdlib script — checks all 7 sections, word counts, financial keywords, gross-profit formula | Quality check |
+| **Proposal Validator** | Python stdlib script - checks all 7 sections, word counts, financial keywords, gross-profit formula | Quality check |
 
 ---
 
 ## Built for business school
 
 <details>
-<summary><b>Competitions this skill prepares you for</b> — click to expand</summary>
+<summary><b>Competitions this skill prepares you for</b> - click to expand</summary>
 
-- **Kelley IdeaFestival** (IU) — idea validation, 5-min pitch, judge Q&A
-- **MIT $100K** — Accelerate / Launch / Pitch tracks, "Why Now?" emphasis
-- **Harvard NVC** — social enterprise track, team alignment canvas
-- **Rice Business Plan Competition** — 7-section written plan, financials
-- **Booth New Venture Challenge** — GTM, distribution, unit economics
-- **Any New Venture Creation course final** — proposal + deck + defence
+- **Kelley IdeaFestival** (IU) - idea validation, 5-min pitch, judge Q&A
+- **MIT $100K** - Accelerate / Launch / Pitch tracks, "Why Now?" emphasis
+- **Harvard NVC** - social enterprise track, team alignment canvas
+- **Rice Business Plan Competition** - 7-section written plan, financials
+- **Booth New Venture Challenge** - GTM, distribution, unit economics
+- **Any New Venture Creation course final** - proposal + deck + defence
 
 </details>
 

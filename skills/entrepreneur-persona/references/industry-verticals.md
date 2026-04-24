@@ -1,10 +1,10 @@
-# Industry verticals — supplementary guidance
+# Industry verticals - supplementary guidance
 
 ## How to use this file
 
 When a user describes their venture, identify the primary vertical from the list below.
 Surface the relevant section's considerations during WF1 (validation), WF2 (proposal Section 4: Operations),
-WF3 (deck slide structure), and WF5 (gauntlet questions). Do not dump all verticals — only activate
+WF3 (deck slide structure), and WF5 (gauntlet questions). Do not dump all verticals - only activate
 the matching one.
 
 ## Vertical detection prompt
@@ -25,7 +25,7 @@ health/biotech, consumer packaged goods, or financial services?"
 
 ### Industry-specific validation questions
 - What is your monthly churn rate, and how does it compare to SaaS benchmarks (<5% monthly for SMB, <1% for enterprise)?
-- What does your NDR look like — are customers expanding or contracting?
+- What does your NDR look like - are customers expanding or contracting?
 - How long is your sales cycle, and how does it affect cash flow?
 - What is your magic number (net new ARR / sales & marketing spend)?
 
@@ -45,10 +45,10 @@ health/biotech, consumer packaged goods, or financial services?"
 - Repeat rate per side, cross-side network effects
 
 ### Industry-specific validation questions
-- How do you solve the cold-start problem — which side do you seed first and how?
+- How do you solve the cold-start problem - which side do you seed first and how?
 - What is your take rate, and how does it compare to benchmarks (Uber 25%, Airbnb 14%, eBay 13%)?
 - What prevents buyers and sellers from going direct after the first transaction?
-- What is the minimum viable liquidity — how many supply units per demand query before the marketplace "works"?
+- What is the minimum viable liquidity - how many supply units per demand query before the marketplace "works"?
 
 ### Proposal/deck adjustments
 - Section 2 (Industry): Address two-sided network effects explicitly
@@ -68,7 +68,7 @@ health/biotech, consumer packaged goods, or financial services?"
 ### Industry-specific validation questions
 - What is your BOM at current volume vs target volume of 10K units?
 - What certifications are required, and what is the timeline and cost?
-- Who manufactures v1 — you, contract manufacturer, or partner? At what MOQ?
+- Who manufactures v1 - you, contract manufacturer, or partner? At what MOQ?
 - What happens if your key component supplier has a 12-week delay?
 
 ### Proposal/deck adjustments
@@ -87,11 +87,11 @@ health/biotech, consumer packaged goods, or financial services?"
 - Time-to-market including regulatory (often 2-7 years)
 
 ### Industry-specific validation questions
-- What is your regulatory pathway — 510(k), PMA, or exempt? Estimated timeline and cost?
+- What is your regulatory pathway - 510(k), PMA, or exempt? Estimated timeline and cost?
 - Do you have IRB approval or a protocol for clinical validation?
-- Who pays — patient, insurer, employer, hospital? Is there a reimbursement code?
+- Who pays - patient, insurer, employer, hospital? Is there a reimbursement code?
 - Are you classified as SaMD under FDA or EU MDR? What are the compliance implications?
-- What is your clinical evidence strategy — retrospective data, prospective trial, or real-world evidence?
+- What is your clinical evidence strategy - retrospective data, prospective trial, or real-world evidence?
 
 ### Proposal/deck adjustments
 - Section 4 (Operations): Regulatory timeline as critical path, clinical validation plan
@@ -131,9 +131,9 @@ health/biotech, consumer packaged goods, or financial services?"
 - Transaction volume and fraud rate
 
 ### Industry-specific validation questions
-- What licenses do you need — state money transmitter, broker-dealer, other?
+- What licenses do you need - state money transmitter, broker-dealer, other?
 - Do you have a banking partner or sponsor bank? What are their requirements and timeline?
-- How do you handle KYC/AML compliance — build vs buy (e.g., Alloy, Plaid)?
+- How do you handle KYC/AML compliance - build vs buy (e.g., Alloy, Plaid)?
 - What happens if regulations change (e.g., CFPB rule changes, state-level restrictions)?
 
 ### Proposal/deck adjustments
@@ -155,7 +155,7 @@ health/biotech, consumer packaged goods, or financial services?"
 - Are you selling to institutions or consumers? What is the procurement cycle?
 - What evidence do you have of learning outcome improvement?
 - How do you handle student data privacy (FERPA, COPPA)?
-- How do you get past the "pilot graveyard" — what converts a pilot to a paid contract?
+- How do you get past the "pilot graveyard" - what converts a pilot to a paid contract?
 
 ### Proposal/deck adjustments
 - Section 3 (Marketing): Institutional sales motion vs consumer growth

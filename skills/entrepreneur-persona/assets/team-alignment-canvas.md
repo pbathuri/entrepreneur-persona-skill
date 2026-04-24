@@ -3,7 +3,7 @@
 ## Instructions
 
 For co-founder teams (2+ people). Each founder completes independently first, then compare and reconcile.
-Disagreements are data — surface them early, not during a crisis.
+Disagreements are data - surface them early, not during a crisis.
 
 ---
 
@@ -28,7 +28,7 @@ Disagreements are data — surface them early, not during a crisis.
 | Operations / logistics | | | |
 | Legal / compliance | | | |
 
-**Rule:** Every function needs exactly one Lead. If two people want the same function, decide now — not during a crisis.
+**Rule:** Every function needs exactly one Lead. If two people want the same function, decide now - not during a crisis.
 
 ## Section C: Equity & commitment
 
@@ -37,7 +37,7 @@ Disagreements are data — surface them early, not during a crisis.
 | Equity split rationale (contribution-based, not equal-by-default) | |
 | Vesting schedule (standard: 4-year, 1-year cliff) | |
 | What happens if someone leaves before cliff? | |
-| IP assignment — all founders assign IP to the company? | |
+| IP assignment - all founders assign IP to the company? | |
 | Decision-making model: majority vote, unanimous, CEO decides? | |
 | What decisions require unanimous agreement? | |
 

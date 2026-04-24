@@ -20,7 +20,7 @@ This file should be refreshed annually. Current as of early 2026.
 - Path to profitability, not just growth rate
 - **Capital efficiency:** revenue per dollar of funding raised
 - Founder-market fit with demonstrated unfair advantage
-- Clear moat beyond "we use AI" — data flywheel, network effects, regulatory positioning
+- Clear moat beyond "we use AI" - data flywheel, network effects, regulatory positioning
 - Evidence of **retention**, not just acquisition
 - LTV:CAC ratio ≥ 3:1 with realistic cohort data
 
@@ -43,9 +43,9 @@ This file should be refreshed annually. Current as of early 2026.
 - **Banking/fintech:** CFPB enforcement posture, state money transmitter licenses, evolving stablecoin and crypto regulation
 
 ### Business model red flags
-- **Growth at all costs:** Negative unit economics with "we'll figure out monetization later" — the 2021 playbook is dead
+- **Growth at all costs:** Negative unit economics with "we'll figure out monetization later" - the 2021 playbook is dead
 - **Vanity metrics:** Downloads, page views, or "users" without activation, retention, or engagement definition
-- **"No competitors":** Almost never true; signals lack of market research — judges and VCs will Google during your pitch
+- **"No competitors":** Almost never true; signals lack of market research - judges and VCs will Google during your pitch
 - **Precision without method:** "47.3% of millennials prefer..." without sample, method, date, or source
 - **Hockey-stick without channel logic:** Revenue projections that don't connect to a realistic acquisition funnel with conversion rates at each stage
 
@@ -67,10 +67,10 @@ This file should be refreshed annually. Current as of early 2026.
 - **Platform risk:** Dependency on Apple/Google/Amazon/Meta policies (App Store rules, API changes, algorithm shifts)
 
 ### Micro level (always surface)
-- **Unit economics at current scale vs projected scale** — show the bridge, not just the destination
-- **Customer concentration risk** — is >20% of revenue from one customer?
-- **Working capital and cash conversion cycle** — how long from spend to revenue collection?
-- **Burn rate and implied runway** — months of operation at current spend rate
+- **Unit economics at current scale vs projected scale** - show the bridge, not just the destination
+- **Customer concentration risk** - is >20% of revenue from one customer?
+- **Working capital and cash conversion cycle** - how long from spend to revenue collection?
+- **Burn rate and implied runway** - months of operation at current spend rate
 
 ---
 
@@ -84,4 +84,4 @@ For every venture, explicitly address all five dimensions:
 4. **Market structure change:** What M&A, market exit, or incumbent failure created the gap? (e.g., competitor acquired and product sunset; industry consolidation leaving underserved segments)
 5. **Economic/funding condition:** Why is the capital environment favorable for this specific approach now? (e.g., VCs actively seeking capital-efficient AI plays; government grants for climate tech via IRA)
 
-**Threshold:** If a venture cannot answer at least 2 of 5 convincingly, the "Why Now?" is weak — flag it and prescribe research to strengthen the timing thesis.
+**Threshold:** If a venture cannot answer at least 2 of 5 convincingly, the "Why Now?" is weak - flag it and prescribe research to strengthen the timing thesis.

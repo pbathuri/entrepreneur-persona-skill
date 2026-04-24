@@ -38,7 +38,7 @@ Use in Q&A prep when a figure sounds too clean or a judge will dig for provenanc
 
 - **“Show the interview log or data trail behind that conversion rate.”**  
 - **“What was the sample size, who was excluded, and what’s the selection bias?”**  
-- **“If we cut this revenue line by 50%, what breaks first—unit economics or the story?”**
+- **“If we cut this revenue line by 50%, what breaks first-unit economics or the story?”**
 
 ## 5. Break-even basics
 
@@ -49,7 +49,7 @@ Use in Q&A prep when a figure sounds too clean or a judge will dig for provenanc
 ## 6. Use of funds frameworks
 
 - **Milestone-based**: each tranche tied to a proof (prototype, pilot, channel test).  
-- **Category caps**: product, marketing, inventory, legal/IP, ops — with **%** and **$**.  
+- **Category caps**: product, marketing, inventory, legal/IP, ops - with **%** and **$**.  
 - **Runway thinking**: months of runway implied by burn (even rough) beats vague “growth.”
 
 ## 7. Revenue model archetypes

@@ -4,9 +4,9 @@
 
 You are performing a comprehensive end-to-end audit of the `skills/entrepreneur-persona/` Claude skill. This audit has three phases:
 
-1. **Structural Audit** — Verify the skill conforms to Anthropic's skill specification
-2. **Simulation Suite** — Run 12 simulated user sessions end-to-end through every workflow
-3. **Benchmark Scoring** — Compare skill outputs against patterns from real winning pitches at major competitions, score gaps, and produce a gap-fix report
+1. **Structural Audit** - Verify the skill conforms to Anthropic's skill specification
+2. **Simulation Suite** - Run 12 simulated user sessions end-to-end through every workflow
+3. **Benchmark Scoring** - Compare skill outputs against patterns from real winning pitches at major competitions, score gaps, and produce a gap-fix report
 
 The output is a complete audit report with pass/fail checks, simulation transcripts, benchmark scorecards, and a prioritized remediation plan.
 
@@ -20,7 +20,7 @@ Read every file in `skills/entrepreneur-persona/` and verify each item. Output a
 
 | # | Check | Criteria | Status |
 |---|-------|----------|--------|
-| 1 | Folder naming | Skill folder `skills/entrepreneur-persona/` — inner name kebab-case, no spaces, no underscores, no capitals | |
+| 1 | Folder naming | Skill folder `skills/entrepreneur-persona/` - inner name kebab-case, no spaces, no underscores, no capitals | |
 | 2 | SKILL.md exists | Exact filename `SKILL.md` (case-sensitive) | |
 | 3 | YAML frontmatter delimiters | Opens and closes with `---` | |
 | 4 | `name` field | kebab-case, matches folder name, no spaces/capitals | |
@@ -83,7 +83,7 @@ Score each dimension 1-5:
 
 ---
 
-### Simulation 1: Cold Start Ideation — Physical Product (Consumer Health)
+### Simulation 1: Cold Start Ideation - Physical Product (Consumer Health)
 
 **Scenario:** A sophomore at IU says: "I have this idea for a phone accessory that holds your daily medication so you never forget it when you leave the house. Like a pop socket but with a pill compartment."
 
@@ -101,7 +101,7 @@ Score each dimension 1-5:
 
 ---
 
-### Simulation 2: Cold Start Ideation — Service Business (End-of-Life Planning)
+### Simulation 2: Cold Start Ideation - Service Business (End-of-Life Planning)
 
 **Scenario:** An MBA student says: "When my grandma died, the funeral planning process was terrible. I want to build an online platform where people pre-plan their cremation and memorial service."
 
@@ -111,7 +111,7 @@ Score each dimension 1-5:
 
 ---
 
-### Simulation 3: Cold Start Ideation — Tech/SaaS (GPU Optimization)
+### Simulation 3: Cold Start Ideation - Tech/SaaS (GPU Optimization)
 
 **Scenario:** A CS grad student says: "We've built software that optimizes GPU memory allocation for AI training workloads. We can reduce compute costs by 24%. We have 87 companies using our open-source SDK."
 
@@ -121,7 +121,7 @@ Score each dimension 1-5:
 
 ---
 
-### Simulation 4: Business Proposal Writing — Graduation Travel Package
+### Simulation 4: Business Proposal Writing - Graduation Travel Package
 
 **Scenario:** User says: "I need to write a 7-page business proposal for the Clapp IDEA Competition. My business is an all-inclusive graduation weekend travel package for parents visiting IU. We've already sold 14 packages and have 180+ on our waitlist for next year."
 
@@ -140,7 +140,7 @@ Score each dimension 1-5:
 
 ---
 
-### Simulation 5: Business Proposal Writing — Fitness Equipment (B2B)
+### Simulation 5: Business Proposal Writing - Fitness Equipment (B2B)
 
 **Scenario:** "I'm building a cable machine attachment that allows natural range of motion for back training. I have a prototype, biomechanics professors have validated the science, and personal trainers who tested it report better muscle activation."
 
@@ -157,7 +157,7 @@ Score each dimension 1-5:
 
 ---
 
-### Simulation 6: Pitch Deck Development — Medication Accessory
+### Simulation 6: Pitch Deck Development - Medication Accessory
 
 **Scenario:** Same user from Sim 1, now ready for slides. "I need a 5-minute pitch deck for the Clapp finals."
 
@@ -182,7 +182,7 @@ Score each dimension 1-5:
 
 ---
 
-### Simulation 7: Pitch Transcript — Funeral Pre-Planning Service
+### Simulation 7: Pitch Transcript - Funeral Pre-Planning Service
 
 **Scenario:** "Write me a full spoken pitch script for Mora, my funeral pre-planning platform. Target time: 4:30."
 
@@ -199,7 +199,7 @@ Score each dimension 1-5:
 
 ---
 
-### Simulation 8: Q&A Preparation — Stress Test
+### Simulation 8: Q&A Preparation - Stress Test
 
 **Scenario:** "I'm presenting my graduation travel business tomorrow. Drill me with the hardest judge questions and coach me on answers."
 
@@ -218,7 +218,7 @@ Score: How many of the real judge questions did the skill anticipate?
 
 ---
 
-### Simulation 9: Idea Refinement — Weak Idea Stress Test
+### Simulation 9: Idea Refinement - Weak Idea Stress Test
 
 **Scenario:** User says: "I want to build an app that reminds people to drink water. There are lots of people who don't drink enough water."
 
@@ -233,7 +233,7 @@ Score: How many of the real judge questions did the skill anticipate?
 
 ---
 
-### Simulation 10: Full Pipeline — Idea Through Final Presentation
+### Simulation 10: Full Pipeline - Idea Through Final Presentation
 
 **Scenario:** User says: "I want to build a platform that helps international students manage their visa documents and travel requirements. I studied abroad and almost missed my visa deadline."
 
@@ -245,11 +245,11 @@ Score: How many of the real judge questions did the skill anticipate?
 4. Script (Workflow 4) → Full spoken text with timing
 5. Stress test (Workflow 5) → Judge gauntlet + remediation
 
-**Benchmark match:** Mirrors the travel document management pitch from Clapp transcripts. Evaluate full pipeline coherence — does the story stay consistent from Canvas to final script?
+**Benchmark match:** Mirrors the travel document management pitch from Clapp transcripts. Evaluate full pipeline coherence - does the story stay consistent from Canvas to final script?
 
 ---
 
-### Simulation 11: Edge Case — User Pushback and Unrealistic Claims
+### Simulation 11: Edge Case - User Pushback and Unrealistic Claims
 
 **Scenario:** User says: "My app will capture 30% of the market in year one. We don't have any competitors. Everyone will want this."
 
@@ -264,7 +264,7 @@ Score: How many of the real judge questions did the skill anticipate?
 
 ---
 
-### Simulation 12: Edge Case — Technical Founder, No Business Sense
+### Simulation 12: Edge Case - Technical Founder, No Business Sense
 
 **Scenario:** CS student says: "I built this ML model that detects plant diseases from photos with 94% accuracy. It's really cool technology. I want to enter the Clapp competition but I've never written a business plan."
 
@@ -275,7 +275,7 @@ Score: How many of the real judge questions did the skill anticipate?
 3. Help frame technology as a business, not a research project
 4. Generate a first-pass proposal outline using the template
 
-**Benchmark:** Mirrors how NSF I-Corps coaches technical founders — "Get out of the lab." Score whether the skill bridges technical excitement to business viability.
+**Benchmark:** Mirrors how NSF I-Corps coaches technical founders - "Get out of the lab." Score whether the skill bridges technical excitement to business viability.
 
 ---
 
@@ -287,12 +287,12 @@ Build a reference database of patterns from these real competition winners. For 
 
 #### Tier 1: Major Competition Winners (research-backed, verified patterns)
 
-**Y COMBINATOR DEMO DAY** (2:30 pitch format — extreme clarity required)
+**Y COMBINATOR DEMO DAY** (2:30 pitch format - extreme clarity required)
 
 | Winner | Year | Key Winning Pattern | Structural Takeaway |
 |--------|------|---------------------|---------------------|
 | **Airbnb** | W2009 | Reframed from "air mattresses" to "$26B short-term accommodation market." Led with market size + unit economics, not product. Showed revenue/booking and organic growth in cities with zero marketing. | Market timing + revenue proof beats clever product description |
-| **Dropbox** | W2007 | Drew Houston opened with universal pain: "You email yourself a file, wrong version." Then LIVE DEMO — showed syncing working. 75K waitlist as traction. | Demo > slides. Show the product being absurdly simple. |
+| **Dropbox** | W2007 | Drew Houston opened with universal pain: "You email yourself a file, wrong version." Then LIVE DEMO - showed syncing working. 75K waitlist as traction. | Demo > slides. Show the product being absurdly simple. |
 | **Stripe** | S2010 | Patrick Collison offered to integrate payments into someone's site in 7 lines of code, live. Problem: integration normally takes weeks. | Contrast current pain (weeks) vs solution (seconds) with live proof |
 | **Brex** | W2017 | Opened with founder credibility: "Built a payments company in Brazil processing $1B before age 20." Then: startups can't get corporate credit cards. Front-loaded waitlist + revenue ramp. | Lead with founder credibility when it's extraordinary |
 
@@ -300,8 +300,8 @@ Build a reference database of patterns from these real competition winners. For 
 
 1. One-sentence company description (5 sec)
 2. Problem with emotional/financial hook (15 sec)
-3. Solution — what you built (20 sec)
-4. **Traction / proof** (30 sec) — THIS gets the most time
+3. Solution - what you built (20 sec)
+4. **Traction / proof** (30 sec) - THIS gets the most time
 5. Market size (15 sec)
 6. Business model (15 sec)
 7. Team credibility (10 sec)
@@ -311,7 +311,7 @@ Build a reference database of patterns from these real competition winners. For 
 
 ---
 
-**TECHCRUNCH DISRUPT BATTLEFIELD** (6-min pitch + 6-min Q&A — rewards showmanship)
+**TECHCRUNCH DISRUPT BATTLEFIELD** (6-min pitch + 6-min Q&A - rewards showmanship)
 
 | Winner | Year | Key Winning Pattern |
 |--------|------|---------------------|
@@ -323,14 +323,14 @@ Build a reference database of patterns from these real competition winners. For 
 
 1. Bold claim or surprising statistic (15-30 sec)
 2. Problem dramatization with story/persona (45 sec)
-3. **Live product demo (2-2.5 min)** — this is the core
+3. **Live product demo (2-2.5 min)** - this is the core
 4. Traction metrics (30 sec)
 5. Market + business model (45 sec)
 6. Team + vision (30 sec)
 
 ---
 
-**MIT $100K** (10-15 min pitch, heavy Q&A — emphasizes technical defensibility)
+**MIT $100K** (10-15 min pitch, heavy Q&A - emphasizes technical defensibility)
 
 | Winner | Key Pattern |
 |--------|-------------|
@@ -344,18 +344,18 @@ Build a reference database of patterns from these real competition winners. For 
 3. Technical solution with defensibility explanation (3-4 min)
 4. Business model + GTM (2 min)
 5. Financial projections with clear assumptions (2 min)
-6. Competitive landscape — 2x2 matrix (1 min)
+6. Competitive landscape - 2x2 matrix (1 min)
 7. Ask + use of funds (1 min)
 
 ---
 
-**RICE BUSINESS PLAN COMPETITION** ($1.5M+ in prizes — investment-readiness focus)
+**RICE BUSINESS PLAN COMPETITION** ($1.5M+ in prizes - investment-readiness focus)
 
 Winners present detailed financial models: not just revenue projections but cap table structures, exit scenarios, and comparable transaction analyses. Pattern: "This market spends $X solving this problem badly. Our science reduces cost by Y% with Z switching cost." Winners address top 3 risks proactively.
 
 ---
 
-**HULT PRIZE** ($1M — social enterprise, 8-10 min)
+**HULT PRIZE** ($1M - social enterprise, 8-10 min)
 
 | Winner | Key Pattern |
 |--------|-------------|
@@ -372,7 +372,7 @@ Hult judges penalize NGO-sounding pitches. Winners frame social impact as a *mar
 |--------|-------------|
 | **Bombas Socks** | "#1 most requested item in homeless shelters = socks." Then immediately: revenue, growth, margins. One-for-one as *marketing engine*, not charity. |
 | **Scrub Daddy** | Live physical demo: changed sponge texture in hot vs cold water. Let product sell itself. Pitch time spent on financials + retail traction. |
-| **Ring** (Doorbot) | Personal story (missed delivery). Product demo. Showed retail partnerships already secured. Created FOMO — company would succeed without shark money. |
+| **Ring** (Doorbot) | Personal story (missed delivery). Product demo. Showed retail partnerships already secured. Created FOMO - company would succeed without shark money. |
 
 **Anti-patterns that lose on Shark Tank:**
 
@@ -427,7 +427,7 @@ Hult judges penalize NGO-sounding pitches. Winners frame social impact as a *mar
 For each simulation (1-12), score the skill output against benchmarks:
 
 ```
-BENCHMARK SCORECARD — Simulation [N]: [Name]
+BENCHMARK SCORECARD - Simulation [N]: [Name]
 ═══════════════════════════════════════════════════
 
 STRUCTURAL ALIGNMENT (vs Clapp Competition Requirements)
@@ -487,7 +487,7 @@ After scoring all 12 simulations, produce a gap analysis table:
 
 Based on the audit, simulations, and benchmarks, produce:
 
-### 4A. Critical Fixes (P1 — blocks competition readiness)
+### 4A. Critical Fixes (P1 - blocks competition readiness)
 
 For each P1 issue:
 
@@ -496,7 +496,7 @@ For each P1 issue:
 - **Target state:** what it should say
 - **Benchmark justification:** which winning pitch pattern this aligns with
 
-### 4B. Enhancement Opportunities (P2 — improves quality)
+### 4B. Enhancement Opportunities (P2 - improves quality)
 
 For each P2:
 
@@ -504,7 +504,7 @@ For each P2:
 - Which simulation exposed the gap
 - Expected score improvement
 
-### 4C. Nice-to-Haves (P3 — polish)
+### 4C. Nice-to-Haves (P3 - polish)
 
 Quick wins for completeness.
 
@@ -542,11 +542,11 @@ tests:
 ## Execution Instructions for Cursor Composer 2
 
 1. **Read all files** in `skills/entrepreneur-persona/` (SKILL.md, all references, all assets, scripts)
-2. **Run Phase 1** — output the full structural checklist
-3. **Run Phase 2** — simulate all 12 conversations, scoring each
-4. **Run Phase 3** — compile benchmark scorecards and gap analysis
-5. **Run Phase 4** — write the remediation plan with exact file edits
-6. **Run Phase 5** — output the regression test suite
+2. **Run Phase 1** - output the full structural checklist
+3. **Run Phase 2** - simulate all 12 conversations, scoring each
+4. **Run Phase 3** - compile benchmark scorecards and gap analysis
+5. **Run Phase 4** - write the remediation plan with exact file edits
+6. **Run Phase 5** - output the regression test suite
 7. **Write the final report** to `skills/entrepreneur-persona/AUDIT_REPORT.md` (this file is for development use, not part of the distributed skill runtime)
 
 ### Output Format

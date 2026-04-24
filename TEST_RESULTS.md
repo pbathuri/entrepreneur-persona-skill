@@ -1,4 +1,4 @@
-# Entrepreneur Persona Skill — Test Results
+# Entrepreneur Persona Skill - Test Results
 
 **Date:** 2026-04-13  
 **Tester:** Claude (automated workflow trace + script validation)  
@@ -17,7 +17,7 @@
 | 5 | Idea Refinement/Stress-Test | PASS | 1 minor gap |
 | 6 | Validation Script | PASS | 0 |
 
-**Overall: 6/6 PASS — skill is functional and well-structured.**
+**Overall: 6/6 PASS - skill is functional and well-structured.**
 
 ---
 
@@ -29,12 +29,12 @@
 
 | Step | Expected behavior | Present in SKILL.md? | Reference linked? |
 |------|-------------------|----------------------|-------------------|
-| Problem discovery | Ask who hurts, how often, what they do today | YES (line 53-55) | — |
-| Reject vagueness | Demand demographics, behaviors, frequency | YES (line 55) | — |
-| Solution framing | One-sentence template | YES (lines 60-62) | — |
-| Viability check | 4 criteria (v1 in 90 days, first 10 customers, way to charge, founder connection) | YES (lines 66-69) | — |
-| Stop/pivot triggers | 4 kill conditions | YES (lines 71-76) | — |
-| Competitive scan | 3-5 alternatives | YES (lines 78-80) | — |
+| Problem discovery | Ask who hurts, how often, what they do today | YES (line 53-55) | - |
+| Reject vagueness | Demand demographics, behaviors, frequency | YES (line 55) | - |
+| Solution framing | One-sentence template | YES (lines 60-62) | - |
+| Viability check | 4 criteria (v1 in 90 days, first 10 customers, way to charge, founder connection) | YES (lines 66-69) | - |
+| Stop/pivot triggers | 4 kill conditions | YES (lines 71-76) | - |
+| Competitive scan | 3-5 alternatives | YES (lines 78-80) | - |
 | Enrichment | Cross-check with frameworks | YES (lines 82-92) | `references/idea-validation-frameworks.md` ✓ |
 
 **Verdict: PASS**
@@ -56,7 +56,7 @@
 | Financial formula enforced | `Units × (Price − COGS) = Gross Profit` | YES (line 133) |
 | Page limit enforced | 7-page max, flag filler | YES (line 147) |
 | Validation script offered | `scripts/validate_proposal.py` | YES (line 147) |
-| Section sub-codes match template | S1-S4, I1-I4, M1A-M5, etc. | YES — exact match |
+| Section sub-codes match template | S1-S4, I1-I4, M1A-M5, etc. | YES - exact match |
 
 **Template completeness check (business-proposal-template.md):**
 
@@ -65,7 +65,7 @@
 - Market sizing has TAM/SAM/SOM with source fields ✓
 - Validation evidence field asks for method and n= ✓
 
-**Verdict: PASS — no gaps.**
+**Verdict: PASS - no gaps.**
 
 ---
 
@@ -99,7 +99,7 @@
 
 **Verdict: PASS**
 
-**Minor gap:** The slide structure doesn't explicitly mention "demo or physical product" as its own beat, though line 159 says "(demo line if product in hand)" in parentheses. For Shark Tank-style and TechCrunch Disrupt-style pitches where live demos dominate, the skill could provide an alternate slide order. Low priority — the current structure handles 5-minute competition pitches well.
+**Minor gap:** The slide structure doesn't explicitly mention "demo or physical product" as its own beat, though line 159 says "(demo line if product in hand)" in parentheses. For Shark Tank-style and TechCrunch Disrupt-style pitches where live demos dominate, the skill could provide an alternate slide order. Low priority - the current structure handles 5-minute competition pitches well.
 
 ---
 
@@ -125,7 +125,7 @@
 - Q&A reminder at bottom links to judge-question-bank.md ✓
 - Marking notation explained (pause, bold = emphasis) ✓
 
-**Verdict: PASS — no gaps.**
+**Verdict: PASS - no gaps.**
 
 ---
 
@@ -196,7 +196,7 @@ Financial section (Section 5) signals:
 | Gross profit formula detected | ✓ |
 | Exit code 0 (success) | ✓ |
 
-**Verdict: PASS — script works correctly on skill-compliant proposals.**
+**Verdict: PASS - script works correctly on skill-compliant proposals.**
 
 ---
 
@@ -252,7 +252,7 @@ Financial section (Section 5) signals:
 
 | # | Severity | Workflow | Issue | Suggested Fix |
 |---|----------|----------|-------|---------------|
-| 1 | Minor | Idea Generation | Step 1 doesn't explicitly say "refuse to discuss solutions until problem is validated" — relies on Principle 1 | Add one line to Step 1: "Do not move to Step 2 until the user has articulated a specific problem with who/frequency/severity." |
+| 1 | Minor | Idea Generation | Step 1 doesn't explicitly say "refuse to discuss solutions until problem is validated" - relies on Principle 1 | Add one line to Step 1: "Do not move to Step 2 until the user has articulated a specific problem with who/frequency/severity." |
 | 2 | Minor | Pitch Deck | No alternate slide order for demo-heavy pitches (physical product, live software) | Add a 2-sentence note after slide structure: "For physical products or live demos, expand Slide 3 to 60s and compress Slides 4-5. Demo is the pitch." |
 | 3 | Minor | Idea Refinement | Judge gauntlet says "10 hardest" but no category distribution guidance | Add: "Draw at least 1 question from each of the 6 categories; weight remaining 4 toward the venture's weakest areas." |
 
@@ -260,6 +260,6 @@ Financial section (Section 5) signals:
 
 ## Conclusion
 
-The skill is **production-ready**. All 5 workflows trace correctly through SKILL.md to their reference files. The validation script works. The 7 persona principles are consistently enforced. The 3 minor gaps are improvements, not bugs — the skill will function correctly without them.
+The skill is **production-ready**. All 5 workflows trace correctly through SKILL.md to their reference files. The validation script works. The 7 persona principles are consistently enforced. The 3 minor gaps are improvements, not bugs - the skill will function correctly without them.
 
 **Recommended next step:** Apply the 3 minor fixes to SKILL.md, then run the full audit prompt (`AUDIT_BENCHMARK_PROMPT.md`) in Cursor Composer for simulation-level testing.

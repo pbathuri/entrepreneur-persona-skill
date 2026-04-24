@@ -34,16 +34,16 @@ What you built, how it works in one clear arc (demo line if product in hand):
 TAM → SAM → SOM; **beachhead** in plain English:  
 [ ]
 
-**Transition:** “We’re not the only option — here’s why we still win.”
+**Transition:** “We’re not the only option - here’s why we still win.”
 
 ---
 
 ## 5. Why Now? (~20 sec)
 
-What changed — in technology, regulation, behavior, or markets — that makes this the right moment:  
+What changed - in technology, regulation, behavior, or markets - that makes this the right moment:  
 [ ]
 
-**Transition:** "We're not the only ones who see this opportunity — here's why we still win."
+**Transition:** "We're not the only ones who see this opportunity - here's why we still win."
 
 ---
 
@@ -52,7 +52,7 @@ What changed — in technology, regulation, behavior, or markets — that makes 
 Landscape + wedge **beyond price** (insight, workflow, trust, speed):  
 [ ]
 
-**Transition:** “We’re not guessing — here’s what we’ve learned from real people.”
+**Transition:** “We’re not guessing - here’s what we’ve learned from real people.”
 
 ---
 
@@ -94,7 +94,7 @@ Categories with **$ and %**, tied to milestones:
 
 ## 11. Team (~20 sec)
 
-What you’ve shipped, built, or solved that proves you can execute *this* — accomplishments, not titles:  
+What you’ve shipped, built, or solved that proves you can execute *this* - accomplishments, not titles:  
 [ ]  
 Skill gaps and how you fill them:  
 [ ]
@@ -105,7 +105,7 @@ Skill gaps and how you fill them:
 
 ## 12. Ask + Close (~10 sec)
 
-**The ask:** [funding amount / intros / pilot partners — be specific]  
+**The ask:** [funding amount / intros / pilot partners - be specific]  
 **One-liner they’ll remember:**  
 [ ]
 

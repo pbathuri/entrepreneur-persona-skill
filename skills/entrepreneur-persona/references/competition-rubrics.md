@@ -4,9 +4,9 @@ Use this to **predict judge scoring** and to **prioritize** what to fix before s
 
 ## Three key evaluation factors
 
-1. **Uniqueness** — Is the insight real? Is there a “secret” or non-obvious wedge beyond “we’re cheaper”?  
-2. **Clarity** — Can a smart non-expert understand the business in ~5 minutes without jargon hand-waving?  
-3. **Viability** — Is there a credible path to revenue, delivery, and follow-on milestones with honest risks named?
+1. **Uniqueness** - Is the insight real? Is there a “secret” or non-obvious wedge beyond “we’re cheaper”?  
+2. **Clarity** - Can a smart non-expert understand the business in ~5 minutes without jargon hand-waving?  
+3. **Viability** - Is there a credible path to revenue, delivery, and follow-on milestones with honest risks named?
 
 ## Detailed rubric (score 1–5 per category)
 

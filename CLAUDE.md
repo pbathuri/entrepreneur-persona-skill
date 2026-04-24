@@ -4,8 +4,8 @@ This repository packages **one** high-depth skill for **pitch competitions**, **
 
 ## Layout
 
-- **Plugin:** [`.claude-plugin/`](.claude-plugin/) — `entrepreneur-persona` plugin id.  
-- **Skill root:** [`skills/entrepreneur-persona/`](skills/entrepreneur-persona/) — do not add `README.md` here.  
+- **Plugin:** [`.claude-plugin/`](.claude-plugin/) - `entrepreneur-persona` plugin id.  
+- **Skill root:** [`skills/entrepreneur-persona/`](skills/entrepreneur-persona/) - do not add `README.md` here.  
 - **User docs:** [`docs/`](docs/), root [`README.md`](README.md).  
 - **Audit:** [`skills/entrepreneur-persona/AUDIT_REPORT.md`](skills/entrepreneur-persona/AUDIT_REPORT.md).
 

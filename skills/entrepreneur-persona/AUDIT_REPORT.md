@@ -1,16 +1,16 @@
-# Entrepreneur Persona Skill — Full Audit Report
+# Entrepreneur Persona Skill - Full Audit Report
 
 **Path:** development artifact for [`skills/entrepreneur-persona/`](.) (not shipped with skill runtime).  
-**Audit run:** 2026-04-13 — **full pass per [`AUDIT_BENCHMARK_PROMPT.md`](../../AUDIT_BENCHMARK_PROMPT.md)** (structural re-check, `validate_proposal.py`, 12 simulations, benchmark scorecards, gap analysis, remediation status). Prior alignment pass: scorecards, appendix, judge bank, vignettes, SKILL.  
+**Audit run:** 2026-04-13 - **full pass per [`AUDIT_BENCHMARK_PROMPT.md`](../../AUDIT_BENCHMARK_PROMPT.md)** (structural re-check, `validate_proposal.py`, 12 simulations, benchmark scorecards, gap analysis, remediation status). Prior alignment pass: scorecards, appendix, judge bank, vignettes, SKILL.  
 **Sources:** Anthropic skill layout, [`SKILL.md`](SKILL.md), `references/`, `assets/`, `scripts/validate_proposal.py`, benchmark spec from Composer audit prompt.
 
 ---
 
 ## Executive summary
 
-- **Overall grade: B+ (estimated 86 / 100 mean benchmark score)** on simulated adherence to skill instructions across 12 scenarios; structural spec compliance is **PASS** on all Phase 1 checks; benchmark fidelity is **good** — **Travel / GoGrad-style Q&A** themes are now **encoded** in [`references/judge-question-bank.md`](references/judge-question-bank.md) and **gauntlet coverage** in [`SKILL.md`](SKILL.md).
+- **Overall grade: B+ (estimated 86 / 100 mean benchmark score)** on simulated adherence to skill instructions across 12 scenarios; structural spec compliance is **PASS** on all Phase 1 checks; benchmark fidelity is **good** - **Travel / GoGrad-style Q&A** themes are now **encoded** in [`references/judge-question-bank.md`](references/judge-question-bank.md) and **gauntlet coverage** in [`SKILL.md`](SKILL.md).
 - **Top strengths:** (1) Seven principles + five workflows map cleanly to Clapp-style proposals and 5-minute pitches; (2) progressive disclosure via `references/` and `assets/`; (3) explicit **problem-before-solution gate**, **demo-heavy deck** timing, **category-balanced judge gauntlet**, plus **red-team / pivot** behavior for weak ideas and unrealistic claims.
-- **Top gaps:** (1) **Runtime model adherence** — SKILL cannot force the host model to always load or follow every line; (2) vignettes remain **structural** in [`references/benchmark-vignettes.md`](references/benchmark-vignettes.md), not a substitute for user-specific evidence; (3) full **Tier 1 narrative depth** stays in this report’s appendix vs. SKILL size limits.
+- **Top gaps:** (1) **Runtime model adherence** - SKILL cannot force the host model to always load or follow every line; (2) vignettes remain **structural** in [`references/benchmark-vignettes.md`](references/benchmark-vignettes.md), not a substitute for user-specific evidence; (3) full **Tier 1 narrative depth** stays in this report’s appendix vs. SKILL size limits.
 
 ---
 
@@ -63,7 +63,7 @@
 
 **Rubric (per simulation):** six dimensions scored **1–5** (max **30**). Exemplar SKILL-aligned mentor reply is abbreviated.
 
-### Simulation 1 — Pill phone accessory (Workflow 1)
+### Simulation 1 - Pill phone accessory (Workflow 1)
 
 | Turn | Role | Content |
 |------|------|---------|
@@ -74,7 +74,7 @@
 
 **Six dimensions (1–5):** Persona 5, Actionability 5, Framework 5, Competition-aware 5, Output 4, Iterative 4 → **28 / 30**
 
-### Simulation 2 — Funeral pre-planning (Workflow 1)
+### Simulation 2 - Funeral pre-planning (Workflow 1)
 
 | Turn | Role | Content |
 |------|------|---------|
@@ -83,7 +83,7 @@
 
 **Six dimensions:** 5, 5, 5, 5, 4, 4 → **28 / 30**
 
-### Simulation 3 — GPU SaaS (Workflow 1)
+### Simulation 3 - GPU SaaS (Workflow 1)
 
 | Turn | Role | Content |
 |------|------|---------|
@@ -92,7 +92,7 @@
 
 **Six dimensions:** 5, 4, 5, 5, 4, 4 → **27 / 30**
 
-### Simulation 4 — Graduation travel proposal (Workflow 2)
+### Simulation 4 - Graduation travel proposal (Workflow 2)
 
 | Turn | Role | Content |
 |------|------|---------|
@@ -101,7 +101,7 @@
 
 **Six dimensions:** 5, 5, 4, 5, 5, 4 → **28 / 30**
 
-### Simulation 5 — Fitness B2B attachment (Workflow 2)
+### Simulation 5 - Fitness B2B attachment (Workflow 2)
 
 | Turn | Role | Content |
 |------|------|---------|
@@ -110,9 +110,9 @@
 
 **Six dimensions:** 5, 5, 5, 5, 4, 4 → **28 / 30**
 
-### Simulation 6 — Meds accessory deck (Workflow 3)
+### Simulation 6 - Meds accessory deck (Workflow 3)
 
-**SKILL output shape:** 11 slides with timings; judges + `judge-question-bank.md`. **SKILL.md** now adds a **demo-heavy** variant (~**60s** Solution / pass-around, compress Market + Competition) for physical / live software — aligns Sim 6 with Disrupt / Shark-style proof.
+**SKILL output shape:** 11 slides with timings; judges + `judge-question-bank.md`. **SKILL.md** now adds a **demo-heavy** variant (~**60s** Solution / pass-around, compress Market + Competition) for physical / live software - aligns Sim 6 with Disrupt / Shark-style proof.
 
 | Element | Benchmark standard | Score 1–5 |
 |---------|-------------------|-----------|
@@ -131,7 +131,7 @@
 
 **Six dimensions (workflow):** 5, 5, 5, 5, 5, 4 → **29 / 30**
 
-### Simulation 7 — Funeral script Mora-style (Workflow 4)
+### Simulation 7 - Funeral script Mora-style (Workflow 4)
 
 | Turn | Role | Content |
 |------|------|---------|
@@ -140,26 +140,26 @@
 
 **Six dimensions:** 5, 4, 4, 5, 4, 4 → **26 / 30**
 
-### Simulation 8 — GoGrad Q&A drill (Workflow 5)
+### Simulation 8 - GoGrad Q&A drill (Workflow 5)
 
 | Turn | Role | Content |
 |------|------|---------|
-| 1 | USER | “Hardest judge questions tomorrow — graduation travel.” |
+| 1 | USER | “Hardest judge questions tomorrow - graduation travel.” |
 | 2 | SKILL | Gauntlet from bank: **≥1** from each core bank section + **≥2** from **Travel, events & logistics** for this venture; remaining slots on weakest areas; coaches **how do you know** answers. |
 
 **GoGrad-style question checklist (post bank update):**
 
 | Judge question (Clapp transcript theme) | In `judge-question-bank.md`? |
 |----------------------------------------|------------------------------|
-| Deposit / cash flow timing | **Y** — Travel #1 |
-| Transportation costs / logistics | **Y** — Travel #2 |
-| Compete if successful / moat | **Y** — Travel #4 (cf. Competition #1) |
-| Hotel or venue capacity | **Y** — Travel #3 |
-| Break-even money | **Y** — Travel #5 |
+| Deposit / cash flow timing | **Y** - Travel #1 |
+| Transportation costs / logistics | **Y** - Travel #2 |
+| Compete if successful / moat | **Y** - Travel #4 (cf. Competition #1) |
+| Hotel or venue capacity | **Y** - Travel #3 |
+| Break-even money | **Y** - Travel #5 |
 
 **Six dimensions:** 5, 4, 4, 5, 4, 5 → **27 / 30**
 
-### Simulation 9 — Water reminder app (Workflow 5)
+### Simulation 9 - Water reminder app (Workflow 5)
 
 | Turn | Role | Content |
 |------|------|---------|
@@ -168,13 +168,13 @@
 
 **Six dimensions:** 5, 5, 5, 5, 4, 4 → **28 / 30**
 
-### Simulation 10 — Visa docs full pipeline (Workflows 1→5)
+### Simulation 10 - Visa docs full pipeline (Workflows 1→5)
 
 Coherent arc: Canvas → 7 sections → 11 slides → script → gauntlet. **Risk:** model drops thread without explicit user checkpoints.
 
 **Six dimensions:** 4, 4, 5, 5, 4, 5 → **27 / 30**
 
-### Simulation 11 — Unrealistic claims (edge)
+### Simulation 11 - Unrealistic claims (edge)
 
 | Turn | Role | Content |
 |------|------|---------|
@@ -183,7 +183,7 @@ Coherent arc: Canvas → 7 sections → 11 slides → script → gauntlet. **Ris
 
 **Six dimensions:** 5, 5, 5, 5, 5, 4 → **29 / 30**
 
-### Simulation 12 — Technical founder / agritech (Workflow 2 + discovery)
+### Simulation 12 - Technical founder / agritech (Workflow 2 + discovery)
 
 | Turn | Role | Content |
 |------|------|---------|
@@ -198,7 +198,7 @@ Coherent arc: Canvas → 7 sections → 11 slides → script → gauntlet. **Ris
 
 ## PHASE 3: Benchmark scorecards and gap analysis
 
-### 3B. Benchmark scorecard — template (all 12 simulations)
+### 3B. Benchmark scorecard - template (all 12 simulations)
 
 Scores below score **expected behavior if SKILL.md is followed**. Grade: **90+ A, 80+ B, 70+ C, 60+ D, &lt;60 F**.
 
@@ -227,7 +227,7 @@ Scores below score **expected behavior if SKILL.md is followed**. Grade: **90+ A
 
 ---
 
-### Simulation 1 — BENCHMARK SCORECARD: Pill accessory
+### Simulation 1 - BENCHMARK SCORECARD: Pill accessory
 
 ```
 STRUCTURAL ALIGNMENT (vs Clapp Competition Requirements)
@@ -267,7 +267,7 @@ TOTAL: 88/100    GRADE: B+
 
 ---
 
-### Simulation 2 — BENCHMARK SCORECARD: Funeral ideation
+### Simulation 2 - BENCHMARK SCORECARD: Funeral ideation
 
 ```
 STRUCTURAL ALIGNMENT    5 + 4 + 5 + 4 = 18/20
@@ -279,7 +279,7 @@ TOTAL: 87/100    GRADE: B+
 
 ---
 
-### Simulation 3 — BENCHMARK SCORECARD: GPU SaaS
+### Simulation 3 - BENCHMARK SCORECARD: GPU SaaS
 
 ```
 STRUCTURAL ALIGNMENT     4 + 4 + 4 + 5 = 17/20
@@ -291,7 +291,7 @@ TOTAL: 84/100    GRADE: B
 
 ---
 
-### Simulation 4 — BENCHMARK SCORECARD: Grad travel proposal
+### Simulation 4 - BENCHMARK SCORECARD: Grad travel proposal
 
 ```
 STRUCTURAL ALIGNMENT     5 + 5 + 5 + 4 = 19/20
@@ -303,7 +303,7 @@ TOTAL: 90/100    GRADE: A-
 
 ---
 
-### Simulation 5 — BENCHMARK SCORECARD: Fitness B2B
+### Simulation 5 - BENCHMARK SCORECARD: Fitness B2B
 
 ```
 STRUCTURAL ALIGNMENT     5 + 5 + 4 + 4 = 18/20
@@ -315,7 +315,7 @@ TOTAL: 87/100    GRADE: B+
 
 ---
 
-### Simulation 6 — BENCHMARK SCORECARD: Med deck
+### Simulation 6 - BENCHMARK SCORECARD: Med deck
 
 ```
 STRUCTURAL ALIGNMENT     5 + 5 + 4 + 4 = 18/20
@@ -327,7 +327,7 @@ TOTAL: 86/100    GRADE: B+
 
 ---
 
-### Simulation 7 — BENCHMARK SCORECARD: Funeral script
+### Simulation 7 - BENCHMARK SCORECARD: Funeral script
 
 ```
 STRUCTURAL ALIGNMENT     4 + 4 + 4 + 5 = 17/20
@@ -339,7 +339,7 @@ TOTAL: 84/100    GRADE: B
 
 ---
 
-### Simulation 8 — BENCHMARK SCORECARD: Q&A drill
+### Simulation 8 - BENCHMARK SCORECARD: Q&A drill
 
 ```
 STRUCTURAL ALIGNMENT     4 + 4 + 4 + 4 = 16/20
@@ -351,7 +351,7 @@ TOTAL: 84/100    GRADE: B
 
 ---
 
-### Simulation 9 — BENCHMARK SCORECARD: Water app
+### Simulation 9 - BENCHMARK SCORECARD: Water app
 
 ```
 STRUCTURAL ALIGNMENT     4 + 5 + 4 + 4 = 17/20
@@ -363,7 +363,7 @@ TOTAL: 83/100    GRADE: B
 
 ---
 
-### Simulation 10 — BENCHMARK SCORECARD: Visa pipeline
+### Simulation 10 - BENCHMARK SCORECARD: Visa pipeline
 
 ```
 STRUCTURAL ALIGNMENT     4 + 4 + 5 + 4 = 17/20
@@ -375,7 +375,7 @@ TOTAL: 85/100    GRADE: B
 
 ---
 
-### Simulation 11 — BENCHMARK SCORECARD: Unrealistic claims
+### Simulation 11 - BENCHMARK SCORECARD: Unrealistic claims
 
 ```
 STRUCTURAL ALIGNMENT     5 + 5 + 4 + 4 = 18/20
@@ -387,7 +387,7 @@ TOTAL: 88/100    GRADE: B+
 
 ---
 
-### Simulation 12 — BENCHMARK SCORECARD: Tech founder
+### Simulation 12 - BENCHMARK SCORECARD: Tech founder
 
 ```
 STRUCTURAL ALIGNMENT     4 + 4 + 4 + 5 = 17/20
@@ -401,9 +401,9 @@ TOTAL: 87/100    GRADE: B+
 
 | Dimension | Avg (of max) | Weakest sim | Root cause | Fix priority |
 |-----------|--------------|-------------|------------|--------------|
-| Structural (20) | **17.3** | **8** (Q&A drill) | Scorecard ties to **proposal sections**; Q&A session doesn’t use 7-section template | **P2** — clarify in SKILL that gauntlet scores **answers**, not proposal skeleton |
-| Pitch (40) | **32.1** | **8**, **9** | **Travel ops:** mitigated via bank + **gauntlet coverage** + **demo-heavy** deck note; **Sim 9** thin by design (kill-pivot) | **P3** — optional deck checklist |
-| Mentoring (30) | **27.6** | **6**, **7** | Deck/script sims depend partly on user-supplied detail; **Sim 8** improved with mandatory category mix | **P3** — optional slide fill-in checklist in `assets/` |
+| Structural (20) | **17.3** | **8** (Q&A drill) | Scorecard ties to **proposal sections**; Q&A session doesn’t use 7-section template | **P2** - clarify in SKILL that gauntlet scores **answers**, not proposal skeleton |
+| Pitch (40) | **32.1** | **8**, **9** | **Travel ops:** mitigated via bank + **gauntlet coverage** + **demo-heavy** deck note; **Sim 9** thin by design (kill-pivot) | **P3** - optional deck checklist |
+| Mentoring (30) | **27.6** | **6**, **7** | Deck/script sims depend partly on user-supplied detail; **Sim 8** improved with mandatory category mix | **P3** - optional slide fill-in checklist in `assets/` |
 | Persona (10) | **8.9** | **9** | Kill-pivot tone risk | **DONE (P3):** **Respectful directness** in SKILL Quality bar |
 
 ---
@@ -414,7 +414,7 @@ TOTAL: 87/100    GRADE: B+
 
 | ID | File | Current state (quoted) | Target state | Status |
 |----|------|------------------------|--------------|--------|
-| P1-1 | [`references/judge-question-bank.md`](references/judge-question-bank.md) | Prior audit: only generic ops (e.g. *“What’s your capacity constraint at launch — labor, supply, tooling?”* — Operations & risk #2) without **deposit / hotel block / grad-travel** nuance | **Done:** new **Travel, events & logistics** section (**8** questions) | **CLOSED** |
+| P1-1 | [`references/judge-question-bank.md`](references/judge-question-bank.md) | Prior audit: only generic ops (e.g. *“What’s your capacity constraint at launch - labor, supply, tooling?”* - Operations & risk #2) without **deposit / hotel block / grad-travel** nuance | **Done:** new **Travel, events & logistics** section (**8** questions) | **CLOSED** |
 
 **Benchmark justification:** Mint / GoGrad operational credibility; Shark Tank “know your numbers.”
 
@@ -422,17 +422,17 @@ TOTAL: 87/100    GRADE: B+
 
 | ID | Change | Simulation | Expected lift | Status |
 |----|--------|------------|---------------|--------|
-| P2-1 | [`references/benchmark-vignettes.md`](references/benchmark-vignettes.md) — Tier-1 **structure** patterns | 3B, 10 | +2–4 Pitch avg | **DONE** |
+| P2-1 | [`references/benchmark-vignettes.md`](references/benchmark-vignettes.md) - Tier-1 **structure** patterns | 3B, 10 | +2–4 Pitch avg | **DONE** |
 | P2-2 | SKILL Workflow 5: travel/hospitality gauntlet pull + `benchmark-vignettes` in progressive disclosure | 8 | Structural +2 | **DONE** |
 
 ### 4C. Nice-to-haves (P3)
 
 | Item | Status |
 |------|--------|
-| [`scripts/validate_proposal.py`](scripts/validate_proposal.py) — docstring on heading patterns | **DONE** |
-| SKILL — **problem-before-solution** gate in Workflow 1 Step 1 | **DONE** (2026-04-13) |
-| SKILL — **demo-heavy** pitch timing (physical / live demo) | **DONE** (2026-04-13) |
-| SKILL — **gauntlet** category coverage (six core + travel weighting) | **DONE** (2026-04-13) |
+| [`scripts/validate_proposal.py`](scripts/validate_proposal.py) - docstring on heading patterns | **DONE** |
+| SKILL - **problem-before-solution** gate in Workflow 1 Step 1 | **DONE** (2026-04-13) |
+| SKILL - **demo-heavy** pitch timing (physical / live demo) | **DONE** (2026-04-13) |
+| SKILL - **gauntlet** category coverage (six core + travel weighting) | **DONE** (2026-04-13) |
 | Optional `assets/deck-slide-checklist.md` for Sim 6 element table | **Open** |
 
 ---
@@ -459,14 +459,14 @@ tests:
 
   - name: "Constructive challenge"
     input: "We have no competitors and will capture 50% of the market"
-    expect: "Challenges claims; beachhead; hypotheses; no cheerleading — see Quality bar"
+    expect: "Challenges claims; beachhead; hypotheses; no cheerleading - see Quality bar"
 ```
 
 ---
 
 ## Appendix: Winning pitch pattern database (Phase 3A reference)
 
-### Tier 1 — Y Combinator Demo Day (extracted patterns)
+### Tier 1 - Y Combinator Demo Day (extracted patterns)
 
 | Winner | Year | Key winning pattern | Structural takeaway |
 |--------|------|---------------------|---------------------|
@@ -479,7 +479,7 @@ tests:
 
 *Teaching often cited: growth / pull beats narrative alone; “train is leaving the station” effect.*
 
-### Tier 1 — TechCrunch Disrupt Battlefield
+### Tier 1 - TechCrunch Disrupt Battlefield
 
 | Winner | Year | Key winning pattern |
 |--------|------|---------------------|
@@ -489,7 +489,7 @@ tests:
 
 **Battlefield structure:** bold claim (15–30s) → problem/story (45s) → **live demo (2–2.5 min)** → traction (30s) → market + model (45s) → team + vision (30s).
 
-### Tier 1 — MIT $100K, Rice, Hult, Shark Tank (summary)
+### Tier 1 - MIT $100K, Rice, Hult, Shark Tank (summary)
 
 | Competition | Emphasis |
 |-------------|----------|
@@ -510,7 +510,7 @@ tests:
 | Shark Tank | Ring | 2013 | Story + retail FOMO |
 | Rice Business Plan | Various | Annual | Financial rigor, CAC/LTV in Q&A |
 
-### YC Demo Day (quick pattern table — coaching)
+### YC Demo Day (quick pattern table - coaching)
 
 | Company | Pattern |
 |---------|---------|
@@ -536,7 +536,7 @@ tests:
 - **Hult:** Impact as **market inefficiency**, not NGO tone.  
 - **Shark Tank:** Demo + **unit economics** + retail traction; anti: no competition, no COGS.
 
-### Tier 2 — University winner vs loser clusters
+### Tier 2 - University winner vs loser clusters
 
 | Winners | Losers |
 |---------|--------|
@@ -546,7 +546,7 @@ tests:
 | Traction method + n | “People love it” |
 | Stated assumptions | Hockey stick |
 
-### Tier 3 — Investor structures (memory aid)
+### Tier 3 - Investor structures (memory aid)
 
 | Name | Emphasis |
 |------|----------|

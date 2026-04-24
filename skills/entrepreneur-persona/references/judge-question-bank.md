@@ -5,10 +5,10 @@ Use for Q&A prep, “Judge Gauntlet” drills, and stress tests. Draw **10 tough
 ## Validation & market
 
 1. How did you validate that number?  
-2. What’s your proof of concept — what have you actually shown?  
+2. What’s your proof of concept - what have you actually shown?  
 3. How many people have you talked to, and what did you learn that surprised you?  
 4. Why did you choose these specific users to test with?  
-5. What would falsify your core assumption — what result would make you pivot?  
+5. What would falsify your core assumption - what result would make you pivot?  
 6. Walk me through your interview process; how did you avoid leading questions?  
 7. What evidence do you have that people will pay (not just say it’s interesting)?  
 8. What’s your beachhead market, and why start there instead of a bigger segment?  
@@ -22,37 +22,37 @@ Use for Q&A prep, “Judge Gauntlet” drills, and stress tests. Draw **10 tough
 3. What do you think maximum revenue could be in 5 years, and what constrains the ceiling?  
 4. What happens to unit costs as you scale or improve the product?  
 5. What’s your burn rate and runway (even if pre-revenue)?  
-6. How do you make money today vs in the future — what changes?  
+6. How do you make money today vs in the future - what changes?  
 7. What are your unit economics at scale (gross margin, contribution margin)?  
 8. What are the key financial risks if your assumptions are 20% wrong?  
-9. How did you build your sales projections — bottom-up or top-down?  
+9. How did you build your sales projections - bottom-up or top-down?  
 10. What’s working capital going to look like (inventory, receivables, payment terms)?
 
 ## Competition & moat
 
 1. What happens when a large incumbent copies this?  
-2. What are you actually trying to protect — patent, trade secret, brand, speed?  
+2. What are you actually trying to protect - patent, trade secret, brand, speed?  
 3. What is patentable or defensible, and what is merely “first mover”?  
 4. What are competitors not doing that you see as the opportunity?  
 5. Why can’t someone undercut you on price tomorrow?  
 6. What’s your differentiation beyond being cheaper or “easier”?  
-7. Who do you fear most in the next 12 months — and why?  
+7. Who do you fear most in the next 12 months - and why?  
 8. What switching costs or habits lock customers to incumbents?
 
 ## Distribution & scale
 
 1. What’s your marketing strategy to get to market in the first 90 days?  
-2. Are you going direct-to-consumer, B2B, through partners — why?  
+2. Are you going direct-to-consumer, B2B, through partners - why?  
 3. How does this scale beyond your initial geography or campus?  
-4. Can you elaborate on distribution — channel partners, retailers, integrations?  
+4. Can you elaborate on distribution - channel partners, retailers, integrations?  
 5. What’s your sales cycle length, and how does it change as you grow?  
-6. What’s the viral or referral loop — if any — and what evidence supports it?  
+6. What’s the viral or referral loop - if any - and what evidence supports it?  
 7. What regulatory or compliance constraints affect how you scale?
 
 ## Operations & risk
 
 1. Have you identified manufacturers or fulfillment partners yet?  
-2. What’s your capacity constraint at launch — labor, supply, tooling?  
+2. What’s your capacity constraint at launch - labor, supply, tooling?  
 3. What operational risks keep you up at night, and how do you mitigate them?  
 4. Is there stigma, trust, or privacy risk in how customers use this?  
 5. What happens if your supplier delays or your key partner walks away?  
@@ -63,22 +63,22 @@ Use for Q&A prep, “Judge Gauntlet” drills, and stress tests. Draw **10 tough
 
 1. Do customers pay a **deposit** up front, and how does that affect your **cash flow** before the event?  
 2. What **transportation** costs or logistics (buses, parking, shuttles) are included vs passed through?  
-3. What **hotel or venue capacity** limits your growth in peak weekends — how do you handle sell-outs?  
-4. **How do you compete if you’re successful** — what stops copycats or the university from bringing this in-house?  
+3. What **hotel or venue capacity** limits your growth in peak weekends - how do you handle sell-outs?  
+4. **How do you compete if you’re successful** - what stops copycats or the university from bringing this in-house?  
 5. How much **revenue or cash** do you need to reach **break-even** on a single cohort or weekend?  
 6. What is your **refund / cancellation** policy, and what liability do you carry if a vendor fails?  
-7. How do you **contract** with hotels or venues — committed blocks, wholesale rates, or spot market?  
+7. How do you **contract** with hotels or venues - committed blocks, wholesale rates, or spot market?  
 8. What **seasonality** or single-point-of-failure risks exist (graduation date shifts, weather, permits)?
 
 ## Team
 
 1. Why are you the right person or team to win this?  
 2. What skills are missing, and how will you fill them (hire, advisor, partner)?  
-3. What partnerships do you need to succeed — who has said yes?  
+3. What partnerships do you need to succeed - who has said yes?  
 4. What happens when you graduate or if a founder leaves?  
 5. How do you divide responsibilities today, and how will that evolve?  
 6. What have you shipped together as a team before this idea?  
-7. Why now — what changed in technology, regulation, or behavior?  
+7. Why now - what changed in technology, regulation, or behavior?  
 8. What’s the specific use of funds, and what milestones does each tranche unlock?  
 9. What will you accomplish with the next $X that you cannot do without it?  
 10. How do you think about ethics or societal impact if this scales?
@@ -90,13 +90,13 @@ Use for Q&A prep, “Judge Gauntlet” drills, and stress tests. Draw **10 tough
 3. How do you handle AI errors or hallucinations in a domain where mistakes have real consequences?  
 4. Have you assessed your product's classification under the EU AI Act? What tier are you?  
 5. If your product is software that makes medical or clinical decisions, have you evaluated FDA SaMD requirements?  
-6. What is your data strategy — how does your product get better with more users in a way competitors can't easily copy?  
+6. What is your data strategy - how does your product get better with more users in a way competitors can't easily copy?  
 7. How dependent are you on a single model provider, and what is your contingency if their pricing doubles or API changes?  
-8. What ethical concerns arise if your product scales to 1M users — bias, misuse, privacy, job displacement?
+8. What ethical concerns arise if your product scales to 1M users - bias, misuse, privacy, job displacement?
 
 ## Macro environment & timing
 
-1. Why is NOW the right time for this — what changed in the last 2–3 years that creates the opening?  
+1. Why is NOW the right time for this - what changed in the last 2–3 years that creates the opening?  
 2. What happens to your business if interest rates stay high and consumer/business spending tightens?  
 3. What regulatory changes (existing or proposed) could help or hurt your venture in the next 18 months?  
 4. How do you navigate the shift from "growth at all costs" to "capital efficiency" in the current funding environment?  

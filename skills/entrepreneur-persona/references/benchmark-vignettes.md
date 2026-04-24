@@ -1,6 +1,6 @@
 # Benchmark vignettes (structure only)
 
-Short structural takeaways from well-known pitches — for coaching **pattern**, not copy-paste. Use with `references/pitch-patterns.md`.
+Short structural takeaways from well-known pitches - for coaching **pattern**, not copy-paste. Use with `references/pitch-patterns.md`.
 
 ## Y Combinator Demo Day (archetypes)
 
